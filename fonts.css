@@ -1,7 +1,7 @@
 .card h1{
     font-family: "Fraunces", sans-serif;
     font-weight: 700;
-    font-size: 32px;
+    font-size: 2rem;
     line-height: 100%;
     letter-spacing: 0px;
     color: var(--black);
@@ -9,7 +9,7 @@
 .card h2{
     font-family: "Montserrat", sans-serif;
     font-weight: 400;
-    font-size: 12px;
+    font-size: .75rem;
     line-height: 120%;
     letter-spacing: 5px;
     color: var(--grey);
@@ -18,7 +18,7 @@
 .card p{
     font-family: "Montserrat", sans-serif;
     font-weight: 400;
-    font-size: 14px;
+    font-size: .875rem;
     line-height: 160%;
     letter-spacing: 0px;
     color: var(--grey);
@@ -26,7 +26,7 @@
 .card-price-left{
     font-family: "Fraunces", sans-serif;
     font-weight: 700;
-    font-size: 32px;
+    font-size: 2rem;
     line-height: 100%;
     letter-spacing: 0px;
     color: var(--green-500);
@@ -34,7 +34,7 @@
 .card-price-right{
     font-family: "Montserrat", sans-serif;
     font-weight: 400;
-    font-size: 13px;
+    font-size: .8125rem;
     line-height: 120%;
     letter-spacing: 0px;
     color: var(--grey);
@@ -43,7 +43,7 @@
 .card button{
     font-family: "Montserrat", sans-serif;
     font-weight: 700;
-    font-size: 14px;
+    font-size: .875rem;
     line-height: 110%;
     letter-spacing: 0px;
     color: var(--white);

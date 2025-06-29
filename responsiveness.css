@@ -1,0 +1,29 @@
+@media (min-width: 46rem){
+    .card{
+        max-width: 550px;
+        
+        margin-inline: auto;
+        padding: 0;
+        display: grid;
+        grid-template-columns: 50% 50%;
+        border-radius: 0 15px 15px 0;
+    }
+    .card img{
+        height: 100%;
+        object-fit: contain;
+        
+        border-radius: 15px 0 0 15px;
+    }
+    .mobile-img{
+        display: none;
+    }
+    .desktop-img{
+        display: block;
+    }
+    .card-right{
+        padding-block: 30px;
+        padding-inline: 20px;
+
+        justify-content: space-between;
+    }
+}
