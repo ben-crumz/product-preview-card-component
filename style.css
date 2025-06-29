@@ -40,13 +40,13 @@ body{
 
     display: flex;
     flex-direction: column;
-    row-gap: 15px;
+    row-gap: 0.9375rem;
 }
 .card-right ul{
     list-style: none;
     display: flex;
     align-items: center;
-    gap: 10px;
+    gap: .625rem;
 }
 .card-right button{
     background-color: var(--green-500);
@@ -59,7 +59,7 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
-    gap: 10px;
+    gap: .625rem;
 }
 .card-right button:hover{
     background-color: var(--green-700);
