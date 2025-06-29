@@ -20,7 +20,7 @@ body{
     place-content: center;
 }
 .card{
-    max-width: 360px;
+    max-width: 22.5rem;
     background-color: var(--white);
     border-start-start-radius: 10px;
     border-start-end-radius: 10px;
@@ -65,7 +65,7 @@ body{
     background-color: var(--green-700);
 }
 .card-right button img{
-    width: 14px;
+    width: .875rem;
 }
 
 .desktop-img{
