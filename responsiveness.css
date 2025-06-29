@@ -6,13 +6,14 @@
         padding: 0;
         display: grid;
         grid-template-columns: 50% 50%;
-        border-radius: 0 15px 15px 0;
+        border-start-end-radius: 15px;
+        border-end-end-radius: 15px;
     }
     .card img{
         height: 100%;
         object-fit: contain;
-        
-        border-radius: 15px 0 0 15px;
+        border-start-start-radius: 15px;
+        border-end-start-radius: 15px;
     }
     .mobile-img{
         display: none;
