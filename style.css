@@ -24,14 +24,14 @@ body{
     background-color: var(--white);
     border-radius: 0 0 10px 10px;
     margin-inline: 25px;
-    padding-bottom: 20px;
+    padding-block-end: 20px;
 }
 .card img{
     width: 100%;
     border-radius: 10px 10px 0 0;
 }
 .card-right{
-    padding-top: 10px;
+    padding-block-start: 10px;
     padding-inline: 20px;
 
     display: flex;
