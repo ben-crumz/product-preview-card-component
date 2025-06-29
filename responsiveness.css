@@ -1,7 +1,6 @@
 @media (min-width: 46rem){
     .card{
-        max-width: 550px;
-        
+        max-width: 34rem;
         margin-inline: auto;
         padding: 0;
         display: grid;
@@ -12,6 +11,7 @@
     .card img{
         height: 100%;
         object-fit: contain;
+        border-start-end-radius: 0;
         border-start-start-radius: 15px;
         border-end-start-radius: 15px;
     }
