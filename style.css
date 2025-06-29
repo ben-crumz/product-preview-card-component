@@ -37,6 +37,8 @@ body{
     display: flex;
     flex-direction: column;
     row-gap: 15px;
+
+    text-transform: strikethrough;
 }
 .card-right ul{
     list-style: none;
